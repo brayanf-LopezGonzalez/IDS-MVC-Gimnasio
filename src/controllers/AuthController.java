@@ -13,9 +13,4 @@ public class AuthController {
 	public void login() {
  		vista.login();
  	}
- 	
-// 	public void register() {
-// 		vista.register();
-// 	}
-
 }
